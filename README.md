@@ -1,2 +1,2 @@
-# OAR
+# OARS
 OpenSim Oars
